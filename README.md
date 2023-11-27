@@ -26,4 +26,6 @@ The key findings and results are documented throughout the notebook with code, v
 
 This project serves as the final project for the Data Science Programming (DS6010) course. It demonstrates a comprehensive investigation into the factors influencing customer churn and develops well-performing models to predict churn.
 
-*Note: The original dataset is from Kaggle.*
+*Note: The original dataset is from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?select=WA_Fn-UseC_-Telco-Customer-Churn).*
+
+
