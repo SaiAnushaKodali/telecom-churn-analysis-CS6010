@@ -1,7 +1,7 @@
 # Telecom Customer Churn Analysis
 
 This Jupyter notebook performs an in-depth analysis on a telecom company's customer dataset to predict customer churn. It aims to determine the main indicators of why customers leave and which customers are likely to churn.
-
+## [This Jupyter notebook](https://github.com/SaiAnushaKodali/telecom-churn-analysis-CS6010/blob/main/Telco_Churn_Project_CS6010.ipynb)
 ## Machine Learning Workflow
 
 The analysis follows the typical machine learning workflow:
